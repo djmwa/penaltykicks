@@ -1,6 +1,6 @@
 ---
 title: Penalty Kicks in Professional Soccer
-description: 'Daniel Moser<br>May 11, 2025'
+description: Daniel Moser<br>May 11, 2025
 show_downloads: true
 ---
 
@@ -54,3 +54,8 @@ I plan to collect data from regular-season matches in the following leagues:
 
 ### Anticipated Challenges
 The primary challenge will be acquiring comprehensive and consistent data. While top-division leagues are well-documented, lower-tier leagues may have less publicly available or granular data—particularly at the match level. This could limit the depth of analysis for certain leagues or time periods.
+
+***
+
+[Home](https://djmwa.github.io/penaltykicks)
+[Next](djmwa.github.io/background)
