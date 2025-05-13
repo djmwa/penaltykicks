@@ -58,4 +58,4 @@ The primary challenge will be acquiring comprehensive and consistent data. While
 ***
 
 [Home](https://djmwa.github.io/penaltykicks)  
-[Next](djmwa.github.io/penaltykicks/background)
+[Next](background)
