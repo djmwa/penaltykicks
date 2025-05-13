@@ -1,6 +1,4 @@
----
-title: Penalty Kicks in Professional Soccer
----
+# Penalty Kicks in Professional Soccer
 #### Author: Daniel Moser  
 
 ***
