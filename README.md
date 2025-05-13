@@ -1,7 +1,7 @@
-# Penalty Kicks in Professional Soccer
-#### Author: Daniel Moser  
-
-***
+---
+title: Penalty Kicks in Professional Soccer
+description: Daniel Moser
+---
 
 ### **Project Overview**  
 This project explores the role and influence of penalty kicks in professional soccer. Drawing on data from several top-tier and second-tier leagues around the world, the analysis aims to quantify how penalty kicks affect match outcomes, league standings, and individual scoring achievements.
