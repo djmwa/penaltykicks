@@ -4,7 +4,7 @@ author: 'Daniel Moser'
 date: 'May 11, 2025'
 output:
   html_document:
-    css: superhero.css
+    css: bootstrap.css
     toc: true
     toc_float:
       collapsed: false
@@ -13,10 +13,6 @@ output:
       before_body: pknavbar.html
       after_body: pk01footer.html
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ***
 
