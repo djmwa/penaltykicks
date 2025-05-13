@@ -58,5 +58,5 @@ I chose not to include women’s leagues in this initial analysis simply due to 
 ### Club Tournaments and Playoffs:
 I’ve intentionally excluded knockout tournaments like the UEFA Champions League and postseason playoffs (such as those in MLS or Liga MX). These competitions introduce different pressures, formats, and incentives. By sticking to regular-season league play, I can ensure a more consistent context for comparing the influence of penalty kicks across teams, seasons, and leagues.
 
-[Home]()  
+[Home](/)  
 [Previous](introduction)
