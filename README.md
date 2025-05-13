@@ -14,7 +14,7 @@ This project explores the role and influence of penalty kicks in professional so
 
 ***
 
-1. [Introduction](https://rpubs.com/djmwa/pkintroduction)
-1. [Project Background (Discussion)](https://rpubs.com/djmwa/pkbackground)
+1. [Introduction](introduction)
+1. [Project Background (Discussion)](background)
 
 *Raw files for this project are available on [Github](https://github.com/djmwa/penaltykicks)*
