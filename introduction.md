@@ -1,6 +1,6 @@
 ---
 title: Penalty Kicks in Professional Soccer
-description: '**Daniel Moser**<br>May 11, 2025'
+description: 'Daniel Moser<br>May 11, 2025'
 show_downloads: true
 ---
 
