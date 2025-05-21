@@ -1,9 +1,9 @@
 This folder contains the Python scripts used to collect data from fbref.com for each league:
 
-1. England - (Premier League)[EPL.py] and Championship
-1. France - Ligue 1 and Ligue 2
-1. Germany - Bundesliga and 2.Bundesliga
-1. Italy - Serie A and Serie B
-1. Mexico - Liga MX
-1. Spain - La Liga and Segunda Division
-1. USA - Major League Soccer (MLS)
+1. England - [Premier League(EPL)](EPL.py) and [Championship](Championship.py)
+1. France - [Ligue 1](Ligue_1.py) and [Ligue 2](Ligue_2.py)
+1. Germany - [Bundesliga](Bundesliga.py) and [2.Bundesliga](2.Bundesliga.py)
+1. Italy - [Serie A](Serie_A.py) and [Serie B](Serie_B.py)
+1. Mexico - [Liga MX](Liga_MX.py)
+1. Spain - [La Liga](La_Liga.py) and [Segunda Division](Segunda_Division.py)
+1. USA - [Major League Soccer (MLS)](MLS.py)
