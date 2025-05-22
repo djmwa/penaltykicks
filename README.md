@@ -4,13 +4,14 @@ This project explores the role and influence of penalty kicks in professional so
 ***
 
 **Project Start:** May 11, 2025  
-**Most Recent Update:** May 11, 2025  
+**Most Recent Update:** May 21, 2025  
 **Project Completion:** *Ongoing*
 
 ***
 
 1. [Introduction](introduction)
 1. [Project Background (Discussion)](background)
+1. [Data Collection (Code & Analysis)](data_collection.md)
 
 ***
 
