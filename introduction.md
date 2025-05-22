@@ -57,4 +57,4 @@ The primary challenge will be acquiring comprehensive and consistent data. While
 ***
 
 [Home](/penaltykicks)  
-[Next](background)
+[Next: Background](background)
