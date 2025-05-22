@@ -34,8 +34,8 @@ While the match-level PK dataset is limited, it provides a good foundation for i
 
 **Solutions:**
 * Iterated over seasons using a for loop to handle league URLs
-* Used httpx for requests and BeautifulSoup (bs4) for HTML parsing
-* Navigated tabbed/secondary tables using bs4 to pull from HTML comments and collapsed sections
+* Used `httpx` for requests and `BeautifulSoup` (`bs4`) for HTML parsing
+* Navigated tabbed/secondary tables using `bs4` to pull from HTML comments and collapsed sections
 * Chose to maintain separate scripts per league due to variability in URL structure and data availability
 
 <details>
@@ -148,8 +148,8 @@ While the match-level PK dataset is limited, it provides a good foundation for i
 
 **Solutions:**
 * Constructed a master list of country URLs and looped through each using consistent URL patterns
-* Parsed page content using BeautifulSoup.find_all() to extract links to .csv files
-* Wrapped the download logic in try/except blocks to capture and log failures for manual review
+* Parsed page content using `BeautifulSoup.find_all()` to extract links to .csv files
+* Wrapped the download logic in `try/except` blocks to capture and log failures for manual review
 
 <details>
   <summary>Football-Data Python Script</summary>
