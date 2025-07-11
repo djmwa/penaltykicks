@@ -135,7 +135,7 @@ Created 8 season-specific files with standardized columns:
 - `away_pk_scored`: Penalties scored by away team
 - `away_pk_awarded`: Penalties awarded to away team
 
-The Python script used to create these pruned files can be found [here](data_cleaning/README.md)
+The Python script and 2019-2020 data used to create these files can be found [here](data_cleaning/README.md), along with the 2019-2020 output file.
 
 ## Key Learnings
 
