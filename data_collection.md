@@ -316,3 +316,4 @@ I expect the next update will focus on initial trends identified during the EDA 
 
 [Home](/penaltykicks)  
 [Previous: Background](background.md)
+[Next: Data Cleaning](data_cleaning.md)
