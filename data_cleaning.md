@@ -8,16 +8,6 @@ description: Daniel Moser<br>July 10, 2025
 
 ***
 
-# Soccer Data Analysis Project: Penalty Kick Impact on Game Outcomes
-
-## Project Overview
-This project analyzes the impact of penalty kicks on soccer game outcomes using data from multiple sources spanning 8 seasons (2012-2020) of English Premier League matches. The core research question being explored is **How much do penalty kicks affect the outcome of games?**
-
-## Data Sources
-1. **EPLReview.com**: Game-level penalty kick statistics (8 seasons, 2012-2020)
-2. **football-data.co.uk**: Comprehensive match results and statistics
-3. **fbref.com**: Detailed team and player statistics (initially explored but ultimately set aside)
-
 ## Phase 1: Initial Misstep - Overengineering the Data Pipeline
 
 ### The Wrong Approach
@@ -174,3 +164,6 @@ The Python script and 2019-2020 data used to create these files can be found [he
 2. Develop statistical models to quantify penalty impact on match outcomes
 3. Create visualizations to communicate findings effectively
 4. Document analytical methodology and conclusions
+
+[Home](/penaltykicks)  
+[Previous: Data Collection](data_collection.md)
